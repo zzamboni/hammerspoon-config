@@ -1,5 +1,7 @@
 # My config files for [Hammerspoon](http://www.hammerspoon.org)
 
+## Please note: this repository has been superseded by [Oh my Hammerspoon!](https://github.com/zzamboni/oh-my-hammerspoon) and is out of date
+
 This repository contains my config files for Hammerspoon. This config
 has already replaced my use of the following apps:
 
